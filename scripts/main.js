@@ -1,4 +1,2 @@
-/* Global styles for MyFilmyCrew */
-body {
-  font-family: sans-serif;
-}
+// Main JS for MyFilmyCrew
+console.log("MFC ready");
